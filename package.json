@@ -1,10 +1,10 @@
 {
-    "name": "create-nestjs-structure-mob",
-    "version": "1.1.0",
+    "name": "nestjs-structure-mobcoder",
+    "version": "1.0.0",
     "description": "this is simple nest structure",
     "author": {"name" : "Pritam Raj"},
     "bin": {
-        "create-nestjs-structure-mob": "create-nestjs-structure-mob.js"
+        "mob-nestjs-structure": "mob-nestjs-structure.js"
       },
     "license": "UNLICENSED",
     "scripts": {
